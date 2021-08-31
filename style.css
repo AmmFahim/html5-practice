@@ -1,0 +1,13 @@
+td,th{
+    color: brown;
+    border: brown solid;
+    border-collapse: collapse;
+    background-color: cyan;
+}
+table{
+    border-collapse: collapse;
+}
+fieldset{
+    border: red solid;
+    border-width: 10px;
+}
